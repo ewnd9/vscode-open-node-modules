@@ -1,10 +1,10 @@
 {
-    "name": "search-node-modules",
+    "name": "open-node-modules",
     "displayName": "Search node_modules",
     "description": "Quickly search the node_modules folder.",
     "license": "MIT",
-    "version": "1.2.0",
-    "publisher": "jasonnutter",
+    "version": "1.0.0",
+    "publisher": "ewnd9",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -66,7 +66,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jasonnutter/search-node-modules"
+        "url": "https://github.com/ewnd9/vscode-open-node-modules"
     },
     "icon": "img/npm-logo.png",
     "pre-commit": [
